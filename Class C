@@ -22,7 +22,7 @@ public class C {
         System.out.println("MC2");
     }
 
-    public void MA3(){
-        System.out.println("Alteração da classe A a partir do Clone");
-    {
+    public void MC3(){
+        System.out.println("Mc3");
+    }
 }
